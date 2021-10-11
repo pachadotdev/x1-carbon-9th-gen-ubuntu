@@ -10,7 +10,7 @@ Almost everything. The only minor problem is that the sound is so-so from speake
 
 *Note: I use Bose 700 headphones and JBL Xtreme 2 speakers. Maybe you don't need this with other models/brands.*
 
-### 1. Install PipeWire (for bluetooth audio codecs)
+### 1. Install PipeWire (for Bluetooth audio codecs)
 
 Install PipeWire and also mask PulseAudio:
 ```
@@ -49,7 +49,7 @@ sudo apt install pavucontrol
 
 Then pin the PulseAudio volume control to the side bar, it fixes a Gnome audio bug that doesn't change the output audio device, and it also allows to send different apps to different audio outputs.
 
-### 3. Install PulseEffects (Dolby audio)
+### 3. Install PulseEffects (for Dolby audio)
 
 Install PulseEffects (there's a new software called EasyEffects that didn't work for me):
 ```
@@ -59,6 +59,3 @@ sudo apt install pulseeffects
 Then in the convulter, import the irs files from the repo.
 
 Source: https://www.reddit.com/r/thinkpad/comments/q5pt38/x1_extreme_gen_4_dolby_atmos_setup_for_linux/
-
-
-
