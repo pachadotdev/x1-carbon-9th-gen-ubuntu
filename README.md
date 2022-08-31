@@ -40,16 +40,7 @@ This provides AAC and SBC codes for high quality bluetooth audio.
 
 Source: Adapted from https://askubuntu.com/questions/1339765/replacing-pulseaudio-with-pipewire-in-ubuntu-20-04
 
-### 2. Install PulseAudio volume control (fix Gnome bug)
-
-Install with:
-```
-sudo apt install pavucontrol
-```
-
-Then pin the PulseAudio volume control to the side bar, it fixes a Gnome audio bug that doesn't change the output audio device, and it also allows to send different apps to different audio outputs.
-
-### 3. Install PulseEffects (for Dolby audio)
+### 2. Install PulseEffects (for Dolby audio)
 
 Install PulseEffects (there's a new software called EasyEffects that didn't work for me):
 ```
