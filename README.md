@@ -47,6 +47,6 @@ Install PulseEffects (there's a new software called EasyEffects that didn't work
 sudo apt install pulseeffects
 ```
 
-Then in the convulter, import the irs files from the repo.
+Then in the convolver, import the irs files from the repo.
 
 Source: https://www.reddit.com/r/thinkpad/comments/q5pt38/x1_extreme_gen_4_dolby_atmos_setup_for_linux/
